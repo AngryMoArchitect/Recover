@@ -1,3 +1,6 @@
+com.android.phone
+com.google.android.apps.walletnfcrel
+com.google.android.apps.nbu.paisa.user
 tr.com.garanti.cepsubesi
 com.akbank.android.apps.akbank
 com.ziraatbank.ziraatmobil
@@ -8,6 +11,7 @@ com.finansbank.mobile.cepsube
 tr.com.hsbc.hsbcturkey
 com.qnb.finansbank
 com.kuveytturk.mobile
+com.google.android.gm
 tr.com.turkiyefinans.mobil
 tr.com.sekerbilgisekerbank
 com.demirbank.mobil
@@ -58,7 +62,6 @@ com.microsoft.authenticator
 com.authenticator.authservice2
 org.shadowice.flockt.gauth
 com.beemdevelopment.aegis
-com.google.android.apps.walletnfcrel
 com.samsung.android.spay
 com.samsung.android.samsungpay.gear
 com.samsung.android.wallet
@@ -77,8 +80,3 @@ com.blockchain.wallet
 io.metamask
 com.trustwallet.app
 com.exodusmovement.exodus
-com.android.phone
-com.google.android.gm
-com.microsoft.teams
-com.slack
-com.google.android.apps.nbu.paisa.user
