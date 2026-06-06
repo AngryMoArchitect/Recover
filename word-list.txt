@@ -1,1 +1,15 @@
-
+otp
+doğrulama kodu
+verification code
+one-time
+tek kullanım
+şifre
+password
+pin kodu
+güvenlik kodu
+security
+code
+auth
+code
+2fa
+two-factor
