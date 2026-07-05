@@ -1,4 +1,3 @@
-com.android.phone
 com.google.android.apps.walletnfcrel
 com.google.android.apps.nbu.paisa.user
 tr.com.garanti.cepsubesi
@@ -11,7 +10,6 @@ com.finansbank.mobile.cepsube
 tr.com.hsbc.hsbcturkey
 com.qnb.finansbank
 com.kuveytturk.mobile
-com.google.android.gm
 tr.com.turkiyefinans.mobil
 tr.com.sekerbilgisekerbank
 com.demirbank.mobil
